@@ -4,7 +4,7 @@ A hands-on routing lab that combines **multi-area OSPF**, an **EIGRP** domain re
 
 > **Tool:** Cisco Packet Tracer 9.0.0
 
-![Topology](screenshots/topology.png)
+![Topology](images/whole_topology_enhanced.png)
 
 ---
 
